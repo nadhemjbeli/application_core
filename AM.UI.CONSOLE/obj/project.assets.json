@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wassim\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wassim\\source\\repos\\AouiWassim\\AM.UI.CONSOLE\\AM.UI.CONSOLE.csproj",
-      "projectName": "AM.UI.CONSOLE",
-      "projectPath": "C:\\Users\\wassim\\source\\repos\\AouiWassim\\AM.UI.CONSOLE\\AM.UI.CONSOLE.csproj",
-      "packagesPath": "C:\\Users\\wassim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wassim\\source\\repos\\AouiWassim\\AM.UI.CONSOLE\\obj\\",
+      "projectUniqueName": "C:\\Users\\ASUS\\everything\\esprit\\4TWIN2\\semester2\\dot_net\\rendu 2\\rendu dot net\\AirportManagment-.net-\\AM.UI.Console\\AM.UI.Console.csproj",
+      "projectName": "AM.UI.Console",
+      "projectPath": "C:\\Users\\ASUS\\everything\\esprit\\4TWIN2\\semester2\\dot_net\\rendu 2\\rendu dot net\\AirportManagment-.net-\\AM.UI.Console\\AM.UI.Console.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\everything\\esprit\\4TWIN2\\semester2\\dot_net\\rendu 2\\rendu dot net\\AirportManagment-.net-\\AM.UI.Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\wassim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\wassim\\source\\repos\\AouiWassim\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
-              "projectPath": "C:\\Users\\wassim\\source\\repos\\AouiWassim\\AM.ApplicationCore\\AM.ApplicationCore.csproj"
+            "C:\\Users\\ASUS\\everything\\esprit\\4TWIN2\\semester2\\dot_net\\rendu 2\\rendu dot net\\AirportManagment-.net-\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\everything\\esprit\\4TWIN2\\semester2\\dot_net\\rendu 2\\rendu dot net\\AirportManagment-.net-\\AM.ApplicationCore\\AM.ApplicationCore.csproj"
             }
           }
         }

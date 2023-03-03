@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\wassim\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wassim\\source\\repos\\AouiWassim\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\everything\\esprit\\4TWIN2\\semester2\\dot_net\\rendu 2\\rendu dot net\\AirportManagment-.net-\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
       "projectName": "AM.ApplicationCore",
-      "projectPath": "C:\\Users\\wassim\\source\\repos\\AouiWassim\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
-      "packagesPath": "C:\\Users\\wassim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wassim\\source\\repos\\AouiWassim\\AM.ApplicationCore\\obj\\",
+      "projectPath": "C:\\Users\\ASUS\\everything\\esprit\\4TWIN2\\semester2\\dot_net\\rendu 2\\rendu dot net\\AirportManagment-.net-\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\everything\\esprit\\4TWIN2\\semester2\\dot_net\\rendu 2\\rendu dot net\\AirportManagment-.net-\\AM.ApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\wassim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

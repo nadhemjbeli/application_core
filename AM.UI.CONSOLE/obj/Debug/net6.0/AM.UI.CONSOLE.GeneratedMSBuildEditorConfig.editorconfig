@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = AM.UI.CONSOLE
-build_property.ProjectDir = C:\Users\wassim\source\repos\AouiWassim\AM.UI.CONSOLE\
+build_property.RootNamespace = AM.UI.Console
+build_property.ProjectDir = C:\Users\ASUS\everything\esprit\4TWIN2\semester2\dot_net\rendu 2\rendu dot net\AirportManagment-.net-\AM.UI.Console\
