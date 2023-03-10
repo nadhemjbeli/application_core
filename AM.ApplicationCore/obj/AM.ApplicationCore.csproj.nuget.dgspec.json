@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\everything\\esprit\\4TWIN2\\semester2\\dot_net\\rendu 2\\rendu dot net\\AirportManagment-.net-\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {}
+    "C:\\Users\\ASUS\\everything\\esprit\\4TWIN2\\semester2\\dot_net\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\everything\\esprit\\4TWIN2\\semester2\\dot_net\\rendu 2\\rendu dot net\\AirportManagment-.net-\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
+    "C:\\Users\\ASUS\\everything\\esprit\\4TWIN2\\semester2\\dot_net\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\everything\\esprit\\4TWIN2\\semester2\\dot_net\\rendu 2\\rendu dot net\\AirportManagment-.net-\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\everything\\esprit\\4TWIN2\\semester2\\dot_net\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
         "projectName": "AM.ApplicationCore",
-        "projectPath": "C:\\Users\\ASUS\\everything\\esprit\\4TWIN2\\semester2\\dot_net\\rendu 2\\rendu dot net\\AirportManagment-.net-\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+        "projectPath": "C:\\Users\\ASUS\\everything\\esprit\\4TWIN2\\semester2\\dot_net\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\everything\\esprit\\4TWIN2\\semester2\\dot_net\\rendu 2\\rendu dot net\\AirportManagment-.net-\\AM.ApplicationCore\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\everything\\esprit\\4TWIN2\\semester2\\dot_net\\AirportManagement\\AM.ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

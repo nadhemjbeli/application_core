@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OJxve+o+ETdhwzwLm2oS3sKhnr04GNV83LF4/2aFeW1nE159U+cu78mmWyb1txKNgcxw0PbiYUDfATuWdQgm3A==",
+  "dgSpecHash": "fxK2NjA89go0cFyfN922PNKrFE6WGoBbYi2aiPdjaTliSdbYO5feFUm9joZuM6USbjtxcWIcKMmvrniu220Fdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\everything\\esprit\\4TWIN2\\semester2\\dot_net\\rendu 2\\rendu dot net\\AirportManagment-.net-\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ASUS\\everything\\esprit\\4TWIN2\\semester2\\dot_net\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.3\\microsoft.entityframeworkcore.abstractions.7.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
